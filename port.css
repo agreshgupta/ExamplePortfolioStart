@@ -6,7 +6,6 @@
         }
         @keyframes mymove1 {
         0%   {opacity: 0;}
-        75%{opacity: 0.4;}
         100% {opacity: 1;}
         }
         .Button{
@@ -15,7 +14,7 @@
                 height: auto;
                 font-size: 1.5vw;
                 animation-name: mymove1;
-                animation-duration: 3s;
+                animation-duration: 2s;
                 }
         .intro{
           font-size:1.3vw;
@@ -23,7 +22,7 @@
         .seat{
           font-size:1.3vw;
           animation-name: mymove1;
-          animation-duration: 3s;
+          animation-duration: 2s;
         }
         body{
               background:linear-gradient(60deg,#000 ,#6ff);
@@ -66,7 +65,7 @@
             background-color:#6ff;
             z-index: -10;
             animation-name: mymove;
-            animation-duration: 3s;
+            animation-duration: 2s;
           }
           .hair1{
             position: absolute;
