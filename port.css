@@ -1,12 +1,6 @@
         @keyframes mymove {
         0%   {left: 35vw;
               opacity: 0.2;}
-        25%  {left: 30vw;
-              opacity: 0.4;}
-        50%  {left: 20vw;
-              opacity: 0.6;}
-        75%  {left: 10vw;
-              opacity: 0.8;}
         100% {left: 5vw;
               opacity: 1;}
         }
